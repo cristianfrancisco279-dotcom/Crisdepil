@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded', function() {
     {
         id: 2,
         name: 'Cera Crisdepil',
-        description: 'Crisdepil, a cera que deixa a pele lisinha, toque de suavidade e confiança em cada detalhe. Com a Cris-depil, a depilação se transforma em um momento de cuidado e bem-estar. Nossa fórmula especial garante remoção eficiente dos pelos, deixando sua pele macia, hidratada e com acabamento impecável. (OBS: Apenas para profissionais)',
+        description: 'Crisdepil, a cera que deixa a pele lisinha, toque de suavidade e confiança em cada detalhe. Com a Cris-depil, a depilação se transforma em um momento de cuidado e bem-estar. Nossa fórmula especial garante remoção eficiente dos pelos, deixando sua pele macia, hidratada e com acabamento impecável. (Apenas para profissionais)',
         price: 'R$ 45,00',
         image: './Imagens/cera-crisdepil-1.0.jpg', // Caminho corrigido com maiúsculas
         whatsappMessage: 'Olá! Gostaria de *COMPRAR* a Cera Cris-depil por R$ 45,00. Poderia me informar sobre formas de pagamento e entrega?',
